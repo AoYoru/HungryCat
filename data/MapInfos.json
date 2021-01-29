@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":true,"name":"プロローグ","order":1,"parentId":0,"scrollX":1092,"scrollY":614.6666666666666},
-{"id":2,"expanded":true,"name":"街","order":2,"parentId":0,"scrollX":1081.3333333333333,"scrollY":908},
+{"id":2,"expanded":true,"name":"街","order":2,"parentId":0,"scrollX":1081.3333333333333,"scrollY":614.6666666666666},
 {"id":3,"expanded":true,"name":"森","order":3,"parentId":0,"scrollX":1081.3333333333333,"scrollY":638.6666666666666},
 {"id":4,"expanded":false,"name":"エンディング","order":4,"parentId":0,"scrollX":1092,"scrollY":614.6666666666666}
 ]
