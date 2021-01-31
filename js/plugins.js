@@ -5,5 +5,6 @@ var $plugins =
 {"name":"Community_Basic","status":true,"description":"基本的なパラメーターを設定するプラグインです。","parameters":{"cacheLimit":"20","screenWidth":"816","screenHeight":"624","changeWindowWidthTo":"","changeWindowHeightTo":"","renderingMode":"auto","alwaysDash":"on"}},
 {"name":"HIME_ActorBattleCommands","status":true,"description":"v1.4 - Provides you with tools to customize and manage actor\r\nbattle commands.","parameters":{}},
 {"name":"KGN_HitMinusEva","status":true,"description":"最終的な命中率を「命中率 - 回避率」にします。","parameters":{}},
-{"name":"CounterExtend","status":true,"description":"反撃拡張プラグイン","parameters":{"PayCounterCost":"false","FailureCostShortage":"false","UsingForceAction":"true","EraseStateTiming":"1"}}
+{"name":"CounterExtend","status":true,"description":"反撃拡張プラグイン","parameters":{"PayCounterCost":"false","FailureCostShortage":"false","UsingForceAction":"true","EraseStateTiming":"1"}},
+{"name":"AudioStreaming","status":true,"description":"音声読み込みを高速化し、oggファイルのみを使用します。","parameters":{"mode":"10","deleteM4a":"false"}}
 ];
